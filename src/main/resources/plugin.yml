@@ -1,0 +1,7 @@
+name: NoCommand
+main: com.kealper.NoCommand.NoCommand
+authors: [Kealper]
+version: ${project.version}
+commands:
+    nocommand:
+        description: Manage NoCommand options

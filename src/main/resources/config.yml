@@ -1,0 +1,8 @@
+# Controls whether server ops are allowed to issue blocked commands or not
+# Default: false
+shouldBlockOps: false
+
+# List of commands to block
+blockedCommands:
+- /op
+- /deop
